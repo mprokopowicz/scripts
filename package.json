@@ -3,12 +3,9 @@
     "lerna": "^2.9.0",
     "nyc": "^11.6.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
   "workspaces": [
     "packages/*"
-  ],
-  "dependencies": {
-  }
+  ]
 }
