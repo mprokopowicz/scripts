@@ -1,0 +1,5 @@
+.nyc_output
+.idea
+.yarn-error
+packages/*/lib
+node_modules
