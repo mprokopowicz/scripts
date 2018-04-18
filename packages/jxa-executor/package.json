@@ -1,6 +1,6 @@
 {
   "name": "@mprokopowicz/jxa-executor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Just a promisified version of \"osa\" module.",
   "main": "lib/index.js",
   "author": "Michał Prokopowicz <micheal.prokopowicz@gmail.com>",
