@@ -9,7 +9,7 @@ A wrapper for [osa](https://www.npmjs.com/package/osa) module that allows to use
 use `#wrap` method to prepare a function that will execute OSA script and return a promise to the result:
 
 ```
-const jxa = require('jxa-executor');
+const jxa = require('@mprokopowicz/jxa-executor');
 
 const showDialog = jxa.wrap((message) => {
   const app = Application.currentApplication();
@@ -30,7 +30,7 @@ main();
 use `#exec` to invoke an OSA script and get a promise for returned result
 
 ```
-const jxa = require('jxa-executor');
+const jxa = require('@mprokopowicz/jxa-executor');
 
 jxa
   .exec((colors) => {
