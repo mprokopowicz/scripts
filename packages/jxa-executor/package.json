@@ -30,5 +30,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "keywords": ["osa", "apple", "applescript", "jxa", "automation"]
 }
