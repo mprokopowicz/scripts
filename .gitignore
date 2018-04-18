@@ -1,5 +1,5 @@
 .nyc_output
 .idea
-.yarn-error
+.yarn-error.log
 packages/*/lib
 node_modules
